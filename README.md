@@ -1,0 +1,1 @@
+# prim-tabanli-is-takip-otomasyonu
